@@ -1,0 +1,9 @@
+Flask
+flask-cors
+pymongo
+python-dotenv
+pytesseract
+Pillow
+PyJWT
+werkzeug
+google-generativeai
